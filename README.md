@@ -25,3 +25,7 @@ Examples:
 3_RG_R.png ---> Image of ID 3 containing a geometry defect affecting the right rail.
 
 The datasets created for surface anomaly detection contain annotation files apart from the images. Each annotation file is a .txt file that corresponds to an image of the same dataset. The name of the .txt file is the same as the image it corresponds to but with the extension changed from .jpg to .txt. The annotations include coordinates of bounding boxes, each line of the file corresponding to a single bounding box.
+
+The datasets can be found in the following shared folder:
+https://drive.google.com/drive/folders/1kj8FCsXcyeAkrUzfpDcJYuib6dKVjJ8m?usp=drive_link
+
